@@ -208,7 +208,6 @@
       real(r8) :: Esize, Xsize, beta, cff, depth, dth
       real(r8) :: dx, dy, f0, my_min, my_max, r, theta, val1, val2
 
-#endif
       real(r8) :: wrkX(IminS:ImaxS,JminS:JmaxS)
       real(r8) :: wrkY(IminS:ImaxS,JminS:JmaxS)
 
